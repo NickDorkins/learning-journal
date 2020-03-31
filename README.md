@@ -8,3 +8,9 @@ Growth mindset is understanding that knowledge starts with learning from not onl
 - Know that perseverance will always be better than stagnation
 - Utilize the tools around you, never be too prideful to ask for help
 - ***Always challenge yourself to learn new things***
+
+### Markdown
+
+1. Create ordered and unordered lists
+1. Bold text
+1. Cross out changed material
