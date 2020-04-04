@@ -22,7 +22,7 @@
 - Look at KEY reasons/motivations they are visiting your site.
 - What info does your visitors NEED?
     - Prioritize your key points and work down toward non-essentials
-        - ###Helpful questions to ask:###
+        - ### Helpful questions to ask:
             - Will visitors be familiar with your subject area / brand or do you need to introduce yourself?
             - Will they be familiar with the product / service / information you are covering or do they need background information on it?
             - What are the most important features of what you are offering?
