@@ -11,6 +11,6 @@ My name is Nick Dorkins and  I am extremely excited to learn as much as I possib
 - [CSS Notes](css-notes.md)
 - [Javascript Notes](javasript-notes.md)
 - [Function Notes](function-notes.md)
-
+- [Loop Notes](loop-notes.md)
 
 
