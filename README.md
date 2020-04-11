@@ -12,4 +12,4 @@ My name is Nick Dorkins and  I am extremely excited to learn as much as I possib
 - [Javascript Notes](javasript-notes.md)
 - [Function Notes](function-notes.md)
 - [Loop Notes](loop-notes.md)
-
+- [How Computers work](how-computer-work.md)
